@@ -7,3 +7,10 @@ audio{
     width: 80%;
     margin: auto;
 }
+div{
+    padding: 20px;
+    background-color: white;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 10px;
+}
