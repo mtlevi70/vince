@@ -1,0 +1,9 @@
+body{
+    background-image: url("bg.png");
+    background-size: 10%;
+
+}
+audio{
+    width: 80%;
+    margin: auto;
+}
